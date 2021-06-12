@@ -8,18 +8,51 @@ h1 {
     color: #b22234;
     text-align: center;
 }
+.row {
+    margin-bottom: 20px;
+}
 .btn {
     background-color: #b22234;
     color: #fff;
     text-align: center;
+    margin-bottom: 5px;
 }
 .btn a:hover,.btn a:active {
     color: #3c3b6e;
     transition: 1s ease;
 }
+.btn-white {
+    background-color: #fff;
+    color: #b22234;
+    border-color: #b22234;
+}
 img {
     max-width: 100%;
 }
+.red-callout {
+    background-color: #b22234;
+    padding: 10px;
+    color: #fff;
+}
+.red-callout p {
+    color: #fff;
+}
+.red-callout h3 {
+    background-color: #fff;
+    color: #b22234;
+}
+.row-red {
+    background-color: #b22234;
+    color: #fff;
+}
+.row-red h2 {
+    color: #fff;
+    text-align: center;
+}
+.row-red li {
+    color:#fff;
+}
+
 /*----- End Global Styles -----*/
 
 /*----- Start Header -----*/
