@@ -71,12 +71,17 @@ img {
     -ms-transform: rotate(5deg); /* IE 9 */
     transform: rotate( 5deg);
 }
-.red-callout p {
+.red-callout p, .red-callout li {
     color: #fff;
 }
+.red-callout li {
+    list-style-type: none;
+    margin-top: 15px;
+}
 .red-callout h3 {
-    background-color: #fff;
-    color: #b22234;
+    color: #3c3b6e;
+    text-align: center;
+    background-color: transparent;
 }
 .row-red {
     background-color: #b22234;
@@ -203,9 +208,10 @@ header a:hover,header a:active {
 /*----- End Intro Section -----*/
 
 /*----- Start Next Steps Section -----*/
-#next-steps .red-callout h3 {
-    color: #3c3b6e;
-    text-align: center;
-    background-color: transparent;
-}
+
 /*----- End Next Steps Section -----*/
+
+/*----- Start What You'll Learn Section -----*/
+#learn-title .stentiga {
+    font-size: 2rem;
+}
