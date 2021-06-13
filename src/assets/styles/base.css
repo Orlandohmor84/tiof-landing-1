@@ -235,6 +235,24 @@ header a:hover,header a:active {
 }
 /*----- End What You'll Learn Section -----*/
 
+/*----- Start What You'll Get Title -----*/
+#get-title h2,#get-title .btn {
+    text-align: center;
+}
+#get-title .btn:hover {
+    color: #fff;
+    cursor: auto;
+} 
+@media screen and (min-width:768px) {
+    #get-title h2 {
+        text-align: right;
+    }
+    #get-title .btn {
+        text-align: left;
+    }
+}
+/*----- End What You'll Get Title -----*/
+
 /*----- Start Why TIOF Banner Section -----*/
 #banner-why-tiof {
     padding-top: 10px;
@@ -243,3 +261,10 @@ header a:hover,header a:active {
     margin-bottom: 10px;
 }
 /*----- End Why TIOF Banner Section -----*/
+
+/*----- Start Footer Styles -----*/
+footer iframe {
+    width: 100%;
+    height: auto;
+}
+/*----- End Footer Styles -----*/
