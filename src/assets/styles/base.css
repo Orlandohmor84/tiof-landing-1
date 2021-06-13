@@ -56,6 +56,20 @@ img {
     background-color: #b22234;
     padding: 10px;
     color: #fff;
+    position: relative;
+}
+.red-callout::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: 100%;
+    height: 100%;
+    border: 2px dashed #3c3b6e;
+    border-radius: 5px;
+    -ms-transform: rotate(5deg); /* IE 9 */
+    transform: rotate( 5deg);
 }
 .red-callout p {
     color: #fff;
@@ -74,6 +88,31 @@ img {
 }
 .row-red li {
     color:#fff;
+}
+.transform-bg {
+    width: 90%;
+    height: 40px;
+    background-color: #fff;
+    -ms-transform: rotate(-2deg); /* IE 9 */
+    transform: rotate(-2deg);
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.transform-bg h3 {
+    -ms-transform: rotate(2deg); /* IE 9 */
+    transform: rotate(2deg);
+    font-size: 1.25rem;
+}
+@media screen and (min-width:768px) {
+    .transform-bg {
+        height: 70px;
+    }
+}
+@media screen and (min-width:992px) {
+    .transform-bg {
+        height: 40px;
+    }
 }
 
 /*----- End Global Styles -----*/
@@ -162,3 +201,11 @@ header a:hover,header a:active {
     } 
 }
 /*----- End Intro Section -----*/
+
+/*----- Start Next Steps Section -----*/
+#next-steps .red-callout h3 {
+    color: #3c3b6e;
+    text-align: center;
+    background-color: transparent;
+}
+/*----- End Next Steps Section -----*/
