@@ -33,6 +33,7 @@ h1 {
 }
 .row {
     margin-bottom: 20px;
+    position:  relative;
 }
 .btn {
     background-color: #b22234;
@@ -119,7 +120,20 @@ img {
         height: 40px;
     }
 }
-
+.vertical-center {
+    width: 80%;
+    height: auto;
+    margin: 20px auto 20px auto;
+}
+@media screen and (min-width:768px) {
+    .vertical-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+}
 /*----- End Global Styles -----*/
 
 /*----- Start Header -----*/
@@ -207,11 +221,25 @@ header a:hover,header a:active {
 }
 /*----- End Intro Section -----*/
 
-/*----- Start Next Steps Section -----*/
-
-/*----- End Next Steps Section -----*/
-
 /*----- Start What You'll Learn Section -----*/
-#learn-title .stentiga {
+#learn-content .stentiga {
     font-size: 2rem;
 }
+#learn-content .red-callout {
+    margin-top: 50px;
+}
+@media screen and (min-width:768px){
+    #learn-content .red-callout {
+        margin-top: 0;
+    }
+}
+/*----- End What You'll Learn Section -----*/
+
+/*----- Start Why TIOF Banner Section -----*/
+#banner-why-tiof {
+    padding-top: 10px;
+}
+#banner-why-tiof li {
+    margin-bottom: 10px;
+}
+/*----- End Why TIOF Banner Section -----*/
