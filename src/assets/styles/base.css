@@ -37,6 +37,7 @@ h1 {
 }
 .btn {
     background-color: #b22234;
+    border-color: #b22234;
     color: #fff;
     text-align: center;
     margin-bottom: 5px;
@@ -235,7 +236,7 @@ header a:hover,header a:active {
 }
 /*----- End What You'll Learn Section -----*/
 
-/*----- Start What You'll Get Title -----*/
+/*----- Start What You'll Get Section -----*/
 #get-title h2,#get-title .btn {
     text-align: center;
 }
@@ -251,7 +252,177 @@ header a:hover,header a:active {
         text-align: left;
     }
 }
-/*----- End What You'll Get Title -----*/
+#get-cards .card {
+    width: 100%;
+    height: 165px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #3c3b6e;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#get-cards .card-title,#get-cards .card-text {
+    color: #fff;
+    /* Vertial center text hack */
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(-4%, -50%);
+}
+#get-cards .card-text {
+    font-size: 0.8rem;
+}
+@media screen and (min-width: 576px) {
+    #get-cards .card {
+        float: left;
+        width: 46%;
+        height: 280px;
+        margin: 10px 2% 10px 2%;
+    }
+}
+@media screen and (min-width: 768px) {
+    #get-cards .card {
+        width: 29%;
+        height: 360px;
+        margin: 10px 2% 10px 2%;
+    }
+}
+@media screen and (min-width: 992px) {
+    #get-cards .card {
+        height: 260px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #get-cards .card {
+        width: 18%;
+        height: 360px;
+        margin: 10px 1% 10px 1%;
+    }
+}
+#get-cards .card-text {
+    display: none;
+}
+/*----- Emmy Tile -----*/
+#card-emmy {
+    background: url('../img/tiles/emmy-500x454-dim.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Red Carpet Tile -----*/
+#tile-red-carpet {
+    background: url('../img/tiles/maxresdefault-1000x563-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Mentors Tile -----*/
+#tile-mentor {
+    background: url('../img/tiles/mentor-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Compassion Tile -----*/
+#tile-compassion {
+    background: url('../img/tiles/compassion-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Universal Studios Tile -----*/
+#tile-universal-studios {
+    background: url('../img/tiles/universal-clapboard-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Marketing Plan Tile -----*/
+#tile-marketing-plan {
+    background: url('../img/tiles/marketing-plan-1000x562-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Production Company Tile -----*/
+#tile-production-company  {
+    background: url('../img/tiles/film-production-1000x563-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Showcase Talents Tile -----*/
+#tile-showcase-talents  {
+    background: url('../img/tiles/video-shoot-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Graduate 11 Months Tile -----*/
+#tile-graduate-11-months {
+    background: url('../img/tiles/interview-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Certifications Tile -----*/
+#tile-certifications {
+    background: url('../img/tiles/certificate-1000x667-dim,jpg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Master Class Tile -----*/
+#tile-master-class {
+    background: url('../img/tiles/masterclass.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Interactive Classroom Tile -----*/
+#tile-interactive {
+    background: url('../img/tiles/interactive-classroom.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Feature Film Production Tile -----*/
+#tile-feature {
+    background: url('../img/tiles/film-production-2-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Lifetime Access Tile -----*/
+#tile-master-class {
+    background: url('../img/tiles/lifetime-access-1000x668-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----- Lasting Impact Tile -----*/
+#tile-impact {
+    background: url('../img/tiles/impact-1000x667-dim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*----- End What You'll Get Section -----*/
 
 /*----- Start Why TIOF Banner Section -----*/
 #banner-why-tiof {
