@@ -237,6 +237,12 @@ header a:hover,header a:active {
 /*----- End What You'll Learn Section -----*/
 
 /*----- Start What You'll Get Section -----*/
+.card-number {
+    color: #fff;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
 #get-title h2,#get-title .btn {
     text-align: center;
 }
