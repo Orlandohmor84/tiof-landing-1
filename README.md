@@ -3,7 +3,7 @@
 ## What is this repository for ##
 
 * The Institute of F.L.M.S. Landing Page
-* Version 0.1
+* Version 1.0
 
 ## How do I get set up ##
 
@@ -11,7 +11,9 @@
 
 ## Release History ##
 
-* v0.0.1 - Initial Beta Release.
+* v1.0.1 - 2021/06/22 - Grammer Edit.
+* v1.0.0 - 2021/06/15 - Initial Release.
+* v0.0.1 - 2021/06/14 - Initial Beta Release.
 
 ## Licenses ##
 
