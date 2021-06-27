@@ -8,11 +8,11 @@
 
     <?php include '../includes/gtm-head.php' ?>
     
-    <title>The Institute of F.I.L.M.S.</title>
+    <title><?php echo $title_main; ?></title>
     <link href="<?php echo $link_bootstrap_css; ?>" rel="stylesheet" integrity="<?php echo $link_bootstrap_css_integrity; ?>" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo $link_bootstrap_icons; ?>">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/styles/base.css">
+    <link href="<?php echo $link_aos_css; ?>" rel="stylesheet">
+    <link rel="stylesheet" href="..\assets\styles\base.css">
 </head>
 <body>
     <?php include '../includes/gtm-body.php' ?>
