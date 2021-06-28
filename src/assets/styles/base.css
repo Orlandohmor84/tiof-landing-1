@@ -158,24 +158,12 @@ header h2 {
 header .row {
     position: relative;
 }
-@media screen and (min-width: 768px) {
-    #header-phone {
-        position: absolute;
-        bottom: 10px;
-        right: 0;
-    }
-}
+
 img#header-logo {
     border-radius: 50% 50% 0 0;
     width: 90%;
     height: auto;
     margin: auto;
-}
-@media screen and (min-width: 768px) {
-    #imgheader-logo {
-        max-width: 300px;
-        margin: 0 auto -50px auto;
-    }
 }
 header a {
     color: #fff;
@@ -184,6 +172,40 @@ header a {
 header a:hover,header a:active {
     color: #3c3b6e;
     transition: 1s ease;
+}
+#header-phone {
+    margin-top: 20px;
+}
+header h3, header h4 {
+    color: #fff;
+}
+header h4 {
+    font-size: 1rem;
+}
+@media screen and (min-width: 768px) {
+    #imgheader-logo {
+        max-width: 300px;
+        margin: 0 auto -50px auto;
+    }
+    #header-phone {
+        position: absolute;
+        bottom: 10px;
+        right: 0;
+    }
+    header h3 {
+        font-size: 1rem;
+    }
+    header h4 {
+        font-size: 0.8rem;
+    }
+}
+@media screen and (min-width: 992px) {
+    header h3 {
+        font-size: 1.5rem;
+    }
+    header h4 {
+        font-size: 1rem;
+    }
 }
 
 /*----- End Header -----*/
