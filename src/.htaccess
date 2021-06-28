@@ -1,0 +1,39 @@
+//301 Redirect Old File
+Redirect 301 /index.html /1/
+
+//301 Redirect Entire Directory
+RedirectMatch 301 /(.*) /1//$1
+
+//Caching schema
+<FilesMatch "\.(jpg|png|css|js)$">
+Header set Cache-Control "max-age=86400"
+</FilesMatch>
+
+//Custom 400 errors
+ErrorDocument 400 /1/
+
+//Custom 401 errors
+ErrorDocument 401 /1/
+
+//Custom 403 errors
+ErrorDocument 403 /1/
+
+//Custom 404 errors
+ErrorDocument 404 /1/
+
+//Custom 500 errors
+ErrorDocument 500 /1/
+
+//Change default directory page
+DirectoryIndex /1/
+
+//Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+#Hides PHP version number in http header:
+<ifModule mod_headers.c>
+Header unset X-Powered-By
+</IfModule>
