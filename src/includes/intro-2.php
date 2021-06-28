@@ -12,6 +12,7 @@
         <span class="red">Graduate in 11 months</span><br>
         Work on 22 films</h2>
         <a role="button" class="btn" href="#next-steps">I WANT A DIGITAL FILM &AMP; MARKETING CAREER</a>
+        <br>
         <a role="button" class="btn btn-white" href="#next-steps">REQUEST FREE INFO</a>
     </div><!-- /.col -->
 </div><!-- /.row -->

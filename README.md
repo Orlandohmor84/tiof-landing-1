@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.0.5 - 2021/06/28 - Intro Styling Edits. CSS Version 1u3y7tjuk9.
 * v2.0.4 - 2021/06/27 - Header Update.
 * v2.0.3 - 2021/06/27 - .htaccess Bugfixes.
 * v2.0.2 - 2021/06/27 - Force SSL.
