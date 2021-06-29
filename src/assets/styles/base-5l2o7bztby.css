@@ -18,6 +18,12 @@
 .red {
     color: #b22234;
 }
+.blue {
+    color: #3c3b6e;
+}
+.blue-lite {
+    color: #80aaff
+}
 /*----- End Custom Fonts -----*/
 
 /*----- Start Global Styles -----*/
