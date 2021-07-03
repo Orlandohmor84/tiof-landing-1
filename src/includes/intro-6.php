@@ -9,9 +9,10 @@
         Emmy-Award winners/industry execs/mentors among women and people of color<br>
         <span class="red">lifetime equipment, and numerous films & projects being led by diverse teams</span><br>
         work with a caring interactive online studio team to achieve diverse dreams<br>
-        <span class="red">help to start your own film & marketing production company</span><br>
-        non-profit affordable tuition<br>
-        <span class="red">graduation in 11 months</span></h2>
+        <span class="red">A New Non-Profit Higher Education Institute of F.I.L.M.S. Offerin</span>g<br>
+        help to start your own film & marketing production company<br>
+        <span class="red">non-profit affordable tuition</span><br>
+        graduation in 11 months</h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
         <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>

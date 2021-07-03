@@ -7,11 +7,12 @@
         <h2><strong>Honoring Diverse Dreamers, Disability Inclusion in F.I.L.M.S. (Focused Leaders of Marketing, Movies, & Storytelling)</strong><br>
         <span class="red">is a focus of our top film & marketing degree for you and includes inspiration from</span><br>
         Emmy-Award winners/industry execs/mentors of varying abilities<br>
-        <span class="red">lifetime equipment, and numerous related films & projects</span><br>
-        work with a caring interactive online studio team <br>
-        <span class="red">help to start your film, marketing production co.</span><br>
-        non-profit affordable tuition<br>
-        <span class="red">graduation in 11 months</span></h2>
+        <span class="red">A New Non-Profit Higher Education Institute of F.I.L.M.S. Offerin</span>g<br>
+        lifetime equipment, and numerous related films & projects<br>
+        <span class="red">work with a caring interactive online studio team</span><br>
+        help to start your film, marketing production co.<br>
+        <span class="red">non-profit affordable tuition</span><br>
+        graduation in 11 months</h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
         <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>

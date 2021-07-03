@@ -10,11 +10,12 @@
         <span class="red">Want a film career without jumping between unemployment and film gigs?</span><br>
         Complete our intensive marketing and film production training program<br>
         <span class="red">With Emmy-award-winning filmmakers/industry execs/mentors,</span><br>
-        work on 22 film productions, various marketing projects<br>
-        <span class="red">inspired by a caring interactive hands-on studio team</span><br>
-        help to start your film, marketing production co.<br>
-        <span class="red">non-profit affordable tuition </span><br>
-        graduation in 11 months</h2>
+        A New Non-Profit Higher Education Institute of F.I.L.M.S. Offering<br>
+        <span class="red"> work on real film productions, various marketing projects</span><br>
+        inspired by a caring interactive hands-on studio team<br>
+        <span class="red">support to start your film, marketing production co.</span><br>
+        non-profit affordable tuition<br>
+        <span class="red">graduation in 11 months</span></h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
         <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>

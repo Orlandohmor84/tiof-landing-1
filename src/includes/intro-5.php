@@ -7,10 +7,11 @@
         <h2><strong>Have the Best Dream Career in Digital Film & Marketing</strong><br>
         <span class="red">The best film & marketing degree comes with lifetime equipment including the first-ever 6K camera</span><br>
         mentors from Hollywood, industry pros/execs, multiple film productions<br>
-        <span class="red">work with a convenient caring online studio team</span><br>
-        your own production company startup help<br>
-        <span class="red">non-profit affordable tuition</span><br>
-        graduate in 11 months</h2>
+        <span class="red">A New Non-Profit Higher Education Institute of F.I.L.M.S. Offering</span><br>
+        work with a convenient caring online studio team<br>
+        <span class="red">your own production company startup help</span><br>
+        non-profit affordable tuition<br>
+        <span class="red">graduate in 11 months</span></h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
         <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>

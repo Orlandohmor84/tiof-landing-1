@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.1 - 2021/07/03 - Intro Edits. CSS Version ey4kspupq3.
 * v2.1.0 - 2021/07/03 - Fixed Position CTA Banner. CSS Version aro2360zyl.
 * v2.0.9 - 2021/07/03 - CTA Edit.
 * v2.0.8 - 2021/06/29 - Google Analytics Install.

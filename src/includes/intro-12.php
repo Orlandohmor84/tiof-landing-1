@@ -7,11 +7,12 @@
         <h2><strong>Online Convenience</strong><br>
         <span class="red">Leading a busy life….wanting a dream career change…and the convenience of no driving/parking…</span><br>
         The best film and marketing degree including personalized, interactive, caring, friendly<br>
-        <span class="red">Emmy-award-winning filmmakers/industry execs/mentors,</span><br>
-        work on 22 film productions, various marketing projects<br>
-        <span class="red">inspired by a caring interactive hands-on studio team</span><br>
-        help to start your film, marketing production co.<br>
-        <span class="red">non-profit affordable tuition</span><br>
+        <span class="red">A New Non-Profit Higher Education Institute of F.I.L.M.S. Offering</span><br>
+        Emmy-award-winning filmmakers/industry execs/mentors,<br>
+        <span class="red">work on 22 film productions, various marketing projects</span><br>
+        inspired by a caring interactive hands-on studio team<br>
+        <span class="red">help to start your film, marketing production co.</span><br>
+        non-profit affordable tuition<br>
         graduation in 11 months</h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
