@@ -1,6 +1,12 @@
 <header>
         <div class="container-fluid">
             <div class="container">
+                <div class="row" id="header-btns">
+                    <div class="col">
+                        <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_01_text ?></a>
+                        <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-xs-12 col-md-4">
                         <center><img id="header-logo" alt="The Institute of F.I.L.M.S." src="..\assets\img\logo-650x396-bg-white.png"></center>

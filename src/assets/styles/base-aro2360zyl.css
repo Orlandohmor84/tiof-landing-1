@@ -22,7 +22,7 @@
     color: #3c3b6e;
 }
 .blue-lite {
-    color: #80aaff
+    color: #80aaff;
 }
 /*----- End Custom Fonts -----*/
 
@@ -149,17 +149,48 @@ img {
 /*----- Start Header -----*/
 header {
     background-color: #b22234;
-    padding-top: 20px;
+    padding-top: 100px;
     color: #fff;
     text-align: center;
 }
+@media screen and (min-width:700px) {
+    header {
+        padding-top: 80px;
+    }
+}
+header #header-btns {
+    position: fixed;
+    top: 0;
+    background-color: #b22234;
+    z-index: 999;
+    padding-top: 5px;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}
+@media screen and (min-width: 620px) {
+    header #header-btns {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+@media screen and (min-width: 768px) {
+    header #header-btns {
+        width: 110%;
+    }
+}
+@media screen and (min-width: 1220px) {
+    header #header-btns {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+header #header-btns a {
+    display: inline-block;
+    font-weight: 700;
+}
 header h2 {
     color: #fff;
-}
-@media screen and (min-width:576px) {
-    header {
-        text-align: right;
-    }
 }
 header .row {
     position: relative;
