@@ -3,7 +3,7 @@
 ## What is this repository for ##
 
 * The Institute of F.L.M.S. Landing Page
-* Version 2.0
+* Version 2.1
 
 ## How do I get set up ##
 
