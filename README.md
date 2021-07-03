@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.0.9 - 2021/07/03 - CTA Edit.
 * v2.0.8 - 2021/06/29 - Google Analytics Install.
 * v2.0.7 - 2021/06/29 - Red Banner Text Highlighting. CSS Version 5l2o7bztby.
 * v2.0.6 - 2021/06/28 - Image Edits.

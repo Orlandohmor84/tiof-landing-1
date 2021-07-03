@@ -11,8 +11,8 @@
         your own production company startup help<br>
         <span class="red">non-profit affordable tuition</span><br>
         graduate in 11 months</h2>
-        <a role="button" class="btn" href="#next-steps">I WANT A DIGITAL FILM &AMP; MARKETING CAREER</a>
+        <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
-        <a role="button" class="btn btn-white" href="#next-steps">REQUEST FREE INFO</a>
+        <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>
     </div><!-- /.col -->
 </div><!-- /.row -->

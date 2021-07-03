@@ -10,8 +10,8 @@
         <span class="red">you produce 22 films, get lifetime equipment, help to start your own company,</span><br>
         work with a caring interactive online studio team<br>
         <span class="red">and graduate in 11 months.</span></h2>
-        <a role="button" class="btn" href="#next-steps">I WANT A DIGITAL FILM &AMP; MARKETING CAREER</a>
+        <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
         <br>
-        <a role="button" class="btn btn-white" href="#next-steps">REQUEST FREE INFO</a>
+        <a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a>
     </div><!-- /.col -->
 </div><!-- /.row -->

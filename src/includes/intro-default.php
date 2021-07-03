@@ -15,7 +15,7 @@
                     </ul>
                 </div><!-- /.col -->
                 <div class="col-xs-12 col-sm-3 cta" data-aos="fade-up">
-                    <center><a role="button" class="btn" href="#next-steps">I WANT A DIGITAL FILM &AMP; MARKETING CAREER</a></center>
-                    <center><a role="button" class="btn btn-white" href="#next-steps">REQUEST FREE INFO</a></center>
+                    <center><a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a></center>
+                    <center><a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a></center>
                 </div><!-- /.col -->
             </div><!-- /.row -->

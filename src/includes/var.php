@@ -22,5 +22,9 @@ $link_klaviyo = 'https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UjRs
 /*----- General -----*/
 $title_main = 'The Institute of F.I.L.M.S. | A Higher Education Non-Profit';
 
+/*----- Buttons -----*/
+$cta_01_text = 'I WANT A DIGITAL FILM &AMP; MARKETING DREAM CAREER';
+$cta_02_text = 'REQUEST FREE INFO';
+
 
 ?>
