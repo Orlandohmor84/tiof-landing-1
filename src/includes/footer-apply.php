@@ -10,8 +10,8 @@
                     <p data-aos="fade-up">While you may begin our program with an idea of what career you desire, when you graduate, you may find a new passion for a different role in digital film, visual communications, and related fields!</p>
                     <p data-aos="fade-up">Explore below to consider exciting careers waiting for you, on set, behind the scenes, and in the executive offiice!</p>
                     <div class="cta" data-aos="flip-up">
-                        <center><a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a></center>
-                        <center><a role="button" class="btn btn-white" href="#next-steps"><?php echo $cta_02_text ?></a></center>
+                        <center><a role="button" class="btn" href="#apply-content"><?php echo $cta_01_text ?></a></center>
+                        <center><a role="button" class="btn btn-white" href="#apply-content">Apply Now</a></center>
                     </div>
                 </div>
             </div>

@@ -15,18 +15,20 @@
     <?php include '../includes/link-css-version-control.php' ?>
 </head>
 <body>
-    <?php include '../includes/gtm-body.php' ?>>
+    <?php include '../includes/gtm-body.php' ?>
 
-    <?php include '../includes/header.php' ?>
+    <?php include '../includes/header-apply.php' ?>
 
     <main>
         <div class="container">
 
-            <?php include '../includes/intro-2.php' ?>
-
             <?php include '../includes/h1.php' ?>
 
-            <?php include '../includes/next-steps.php' ?>
+        </div><!-- /.container -->    
+
+        <?php include '../includes/apply-form.php' ?>
+
+        <div class="container">
 
             <?php include '../includes/learn.php' ?>
 
@@ -37,12 +39,12 @@
         <?php include '../includes/get.php' ?>
 
         <div class="container">
-            <?php include '../includes/films.php' ?>
+            <?php include '../includes/films-apply.php' ?>
         </div>
 
         <?php include '../includes/banner-top-school.php' ?>
 
-        <?php include '../includes/footer.php' ?>
+        <?php include '../includes/footer-apply.php' ?>
 
 
 

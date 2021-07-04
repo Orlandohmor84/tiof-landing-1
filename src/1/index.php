@@ -22,7 +22,7 @@
     <main>
         <div class="container">
 
-            <?php include '../includes/intro-default.php' ?>
+            <?php include '../includes/films.php' ?>
 
             <?php include '../includes/h1.php' ?>
 

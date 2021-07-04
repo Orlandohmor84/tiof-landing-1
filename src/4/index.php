@@ -37,7 +37,7 @@
         <?php include '../includes/get.php' ?>
 
         <div class="container">
-            <?php include '../includes/intro-default.php' ?>
+            <?php include '../includes/films.php' ?>
         </div>
 
         <?php include '../includes/banner-top-school.php' ?>

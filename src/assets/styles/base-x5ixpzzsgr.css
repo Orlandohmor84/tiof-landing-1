@@ -528,6 +528,28 @@ header h4 {
 }
 /*----- End Why TIOF Banner Section -----*/
 
+/*----- Start Apply Form Styles -----*/
+#apply-header {
+    background: url(../img/film-studio.jpg);
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+} 
+#apply-header h2 {
+    text-align: center;
+    color: #fff;
+    line-height: 300px;
+}
+#apply-content {
+    text-align: center;
+}
+#apply-form {
+    margin-bottom: 50px;
+}
+/*----- End Apply Form Styles -----*/
+
 /*----- Start Footer Styles -----*/
 footer iframe {
     width: 100%;
