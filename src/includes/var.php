@@ -26,5 +26,8 @@ $title_main = 'The Institute of F.I.L.M.S. | A Higher Education Non-Profit';
 $cta_01_text = 'I WANT A DIGITAL FILM &AMP; MARKETING DREAM CAREER';
 $cta_02_text = 'REQUEST FREE INFO';
 
+/*----- Animations -----*/
+$animation_price_grid_tiof = 'data-aos="flip-left" data-aos-duration="1000"';
+
 
 ?>

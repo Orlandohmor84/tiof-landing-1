@@ -18,7 +18,11 @@
 .red {
     color: #b22234;
 }
-.blue {
+.red-bg {
+    background-color: #b22234;
+    color: #fff;
+}
+.blue, .blue::before {
     color: #3c3b6e;
 }
 .blue-lite {
@@ -549,6 +553,63 @@ header h4 {
     margin-bottom: 50px;
 }
 /*----- End Apply Form Styles -----*/
+
+/*----- Start Price Grid Stles -----*/
+#price-grid-table table {
+    font-size: 0.8rem;
+}
+#price-grid-header h3 {
+    text-align: center;
+}
+.price-grid-table-empty-cell-row {
+    border: none;
+}
+#price-grid-table, #price-grid-table th, #price-grid-table td {
+    text-align: center;
+    color: #3c3b6e;
+}
+#price-grid-table th, #price-grid-table td {
+    padding: 0;
+}
+#price-grid-table .bi {
+    font-size: 1rem;
+}
+#price-grid-table tbody th {
+    line-height: 1rem;
+    vertical-align: middle;
+    padding: 0 5px;
+}
+#price-grid-table-logo {
+    display: none;
+}
+.price-grid-table-txt-lg {
+    font-size: 1.25rem;
+}
+#price-grid-table-degree-tiof, #price-grid-table-duration-tiof {
+    background-color: #b22234;
+    color: #fff !important;
+}
+@media screen and (min-width:600px) {
+    #price-grid-table table {
+        font-size: 1rem;
+    }
+    #price-grid-table .bi {
+        font-size: 2rem;
+    }
+    #price-grid-table tbody th {
+        line-height: 2rem;
+    }
+}
+@media screen and (min-width: 993px) {
+    #price-grid-table-logo {
+        display: block;
+        float: left;
+        margin-right: 5px;
+        width: 50px;
+        height: 50px;
+    }
+}
+/*----- End Price Grid Stles -----*/
 
 /*----- Start Footer Styles -----*/
 footer iframe {

@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.3 - 2021/07/04 - Compare Table Variation. CSS Version 53liiw4upd.
 * v2.1.2 - 2021/07/04 - Apply Variation. CSS Version x5ixpzzsgr.
 * v2.1.1 - 2021/07/03 - Intro Edits. CSS Version ey4kspupq3.
 * v2.1.0 - 2021/07/03 - Fixed Position CTA Banner. CSS Version aro2360zyl.
