@@ -8,14 +8,14 @@
                     </div>
                     <div class="col-xs-12 col-md-9" data-aos="fade-left">
                         <ul>
-                            <li>A TOP FILM SCHOOL BASED IN FLORIDA THAT TEACHES YOU TO MASTER THE <strong class="blue-lite">FULL PRODUCTION SKILLS IN DIGITAL FILM AND MARKETING</strong></li>
-                            <li>NO OTHER DEGREE OR DIPLOMA PROGRAM COMBINES A <strong class="blue-lite">DOUBLE MAJOR IN DIGITAL FILM AND MARKETING</strong> PRODUCING THE TOP FILM SCHOOL AND BEST MARKETING DEGREE</li>
-                            <li>A FIRST-RATE EDUCATIONAL EXPERIENCE WITH FIRST-RATE INDUSTRY AND EDUCATIONAL LEADERS</li>
-                            <li><strong class="blue-lite">PERSONALIZED HANDS ON FILMMAKING TRAINING</strong> LIVE ONLINE WITH SUCCESS-ORIENTED MENTORS FROM HOLLYWOOD TO YOUR CLASSROOM</li>
-                            <li>SUPPORT EVERY STEP OF THE WAY MAKES US YOUR BEST FILM SCHOOL AND BEST MARKETING DEGREE OPTION</li>
-                            <li>OUR APPROACH: BE THE <strong class="blue-lite">TOP FILM SCHOOL WITH THE BEST MARKETING DEGREE</strong> WITH DIGITAL BUSINESS WORKFORCE SKILLS TO GIVE YOU THE BEST DIGITAL FILM AND DIGITAL MARKETING PROGRAMS</li>
-                            <li>OUR STUDENTS MAKE REAL <strong class="blue-lite">FULL-LENGTH FEATURE FILMS</strong>, IMPLEMENT REAL MARKETING PROJECTS FOR CURRENT BUSINESSES</li>
-                            <li>WE TAKE YOUR EDUCATION SERIOUSLY TO PREPARE YOU FOR YOUR BEST FILM & BEST BUSINESS MARKETING CAREERS</li>
+                            <li>A top film school based in florida that teaches you to master the  <strong class="blue-lite">FULL PRODUCTION SKILLS IN DIGITAL FILM AND MARKETING</strong></li>
+                            <li>No other degree or diploma program combines a <strong class="blue-lite">DOUBLE MAJOR IN DIGITAL FILM AND MARKETING</strong> producing the top film school and best marketing degree</li>
+                            <li>A first-rate educational experience with first-rate industry and educational leaders</li>
+                            <li><strong class="blue-lite">PERSONALIZED HANDS ON FILMMAKING TRAINING</strong> live online with success-oriented mentors from hollywood to your classroom</li>
+                            <li>Support every step of the way makes us your best film school and best marketing degree option</li>
+                            <li>Our approach: be the <strong class="blue-lite">TOP FILM SCHOOL WITH THE BEST MARKETING DEGREE</strong> with digital business workforce skills to give you the best digital film and digital marketing programss</li>
+                            <li>Our students make real <strong class="blue-lite">FULL-LENGTH FEATURE FILMS</strong>, implement real marketing projects for current businesses</li>
+                            <li>We take your education seriously to prepare you for your best film & best business marketing careers</li>
                             <li><strong class="blue-lite">GRADUATE IN 11 MONTHS</strong></li>
                         </ul>
                     </div>

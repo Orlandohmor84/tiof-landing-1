@@ -11,6 +11,8 @@
 
 ## Release History ##
 
+* v2.1.5 - 2021/07/05 - Dream Career Variation. CSS Version s8gy4wrft0.
+* v2.1.4 - 2021/07/04 - Why Banner Lowercase font.
 * v2.1.3 - 2021/07/04 - Compare Table Variation. CSS Version 53liiw4upd.
 * v2.1.2 - 2021/07/04 - Apply Variation. CSS Version x5ixpzzsgr.
 * v2.1.1 - 2021/07/03 - Intro Edits. CSS Version ey4kspupq3.

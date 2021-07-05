@@ -22,11 +22,20 @@
     background-color: #b22234;
     color: #fff;
 }
+.red-bg h1, .red-bg h2, .red-bg h3, .red-bg h4, .red-bg h5, .red-bg h6, .red-bg p {
+    color: #fff;
+}
 .blue, .blue::before {
     color: #3c3b6e;
 }
 .blue-lite {
     color: #80aaff;
+}
+.img-round {
+    border-radius: 50%;
+}
+.border-blue {
+    border: 5px solid #3c3b6e;
 }
 /*----- End Custom Fonts -----*/
 
@@ -610,6 +619,28 @@ header h4 {
     }
 }
 /*----- End Price Grid Stles -----*/
+
+/*----- Start Career Guide -----*/
+#career-guide .red-bg {
+    padding: 5px;
+}
+#career-guide h2 {
+    font-size: 1.5rem;
+}
+#career-guide p {
+    font-size: 1.25rem;
+}
+#career-guide-two-images img {
+    margin-bottom: 20px;
+    border-radius: 5%;
+}
+#career-guide-last-row img {
+    border-radius: 5%;
+}
+#career-guide .btn {
+    margin-bottom: 20px;
+}
+/*----- End Career Guide -----*/
 
 /*----- Start Footer Styles -----*/
 footer iframe {
