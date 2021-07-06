@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.6 - 2021/07/06 - Red Carpet Kit Varation. CSS Version lpxpobkhem.
 * v2.1.5 - 2021/07/05 - Dream Career Variation. CSS Version s8gy4wrft0.
 * v2.1.4 - 2021/07/04 - Why Banner Lowercase font.
 * v2.1.3 - 2021/07/04 - Compare Table Variation. CSS Version 53liiw4upd.
