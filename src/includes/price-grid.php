@@ -2,7 +2,7 @@
     <div class="col">
         <h3>How does The Institute of F.I.L.M.S. Compare?</h3>
         <h3>Discover what sets The Institute of F.I.L.M.S. Apart</h3>
-        <h3 class="red">For Student. Not for Profit.</h3>
+        <h3 class="red">For Students. Not for Profit.</h3>
     </div>
 </div>
 <div class="row" id="price-grid-table">

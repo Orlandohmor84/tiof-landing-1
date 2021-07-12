@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.8 - 2021/07/12 - Price Grid Text Edit.
 * v2.1.7 - 2021/07/07 - Red Carpet Page Update. CSS Version ar8wimy3b6.
 * v2.1.6 - 2021/07/06 - Red Carpet Kit Varation. CSS Version lpxpobkhem.
 * v2.1.5 - 2021/07/05 - Dream Career Variation. CSS Version s8gy4wrft0.
