@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.9 - 2021/07/18 - Red Carpet Background Image. CSS Vedrsion yiqewrpzs5.
 * v2.1.8 - 2021/07/12 - Price Grid Text Edit.
 * v2.1.7 - 2021/07/07 - Red Carpet Page Update. CSS Version ar8wimy3b6.
 * v2.1.6 - 2021/07/06 - Red Carpet Kit Varation. CSS Version lpxpobkhem.

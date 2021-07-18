@@ -660,8 +660,9 @@ header h4 {
     text-align: center;
 }
 .red-carpet-banners {
+    background-image: url('../img/red-carpet/red-carpet-pattern-1320x743.jpg');
     background-color: #b22234;
-    background-image: linear-gradient(#b22234, #ff6666);
+    /*background-image: linear-gradient(#b22234, #ff6666);*/
     padding-top: 20px;
     padding-bottom: 20px;
 }

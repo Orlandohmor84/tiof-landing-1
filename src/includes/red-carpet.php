@@ -4,34 +4,34 @@
         <h2 class="gyre blue" id="red-carpet-header">Every Student Gets a Red Carpet Rollout&copy; F.I.L.M.S. Equipment Kit</h2>
     </div>
     <div class="row red-carpet-banners">
-        <div class="col-sm-5 v-align-middle">
+        <div class="col-sm-5 v-align-middle" data-aos="fade-right">
             <img class="red-carpet-banner-img" src="../assets/img/red-carpet/blackmagic-transparent.png" alt="Blackmagic Design Pocket Cinema Camera 6k Pro (Canon EF)">
         </div>
-        <div class="col-sm-7 v-align-middle">
+        <div class="col-sm-7 v-align-middle" data-aos="fade-left">
             <h2 class="gyre">Blackmagic Design <br>Pocket Cinema Camera <br>6k Pro (Canon EF)</h2>
         </div>
     </div><!-- /.row -->
     <div class="row red-carpet-banners">
-        <div class="col-sm-6 order-sm-2 v-align-middle">
+        <div class="col-sm-6 order-sm-2 v-align-middle" data-aos="fade-left">
             <img class="red-carpet-banner-img" src="../assets/img/red-carpet/rokinion-transparent.png" alt="Rokinion 24, 35, 50, 85mm Cine DS Lens Bundle for Canon EF Mount">
         </div>
-        <div class="col-sm-6 order-sm-1 v-align-middle">
+        <div class="col-sm-6 order-sm-1 v-align-middle" data-aos="fade-right">
             <h2 class="gyre">Rokinion <br>24, 35, 50, 85mm Cine DS Lens <br>Bundle for Canon EF Mount</h2>
         </div>
     </div><!-- /.row -->
     <div class="row red-carpet-banners">
-        <div class="col-sm-5 v-align-middle">
+        <div class="col-sm-5 v-align-middle" data-aos="fade-right">
             <img class="red-carpet-banner-img" src="../assets/img/red-carpet/gvm_8000d-transparent.png" alt="GVM 800D-RGB LED Studio 3-Video Light Kit">
         </div>
-        <div class="col-sm-7 v-align-middle">
+        <div class="col-sm-7 v-align-middle" data-aos="fade-left">
             <h2 class="gyre">GVM <br>800D-RGB LED <br>Studio 3-Video Light Kit</h2>
         </div>
     </div><!-- /.row -->
     <div class="row red-carpet-banners">
-        <div class="col-sm-6 order-sm-2 v-align-middle">
+        <div class="col-sm-6 order-sm-2 v-align-middle" data-aos="fade-left">
             <img class="red-carpet-banner-img" src="../assets/img/red-carpet/rode-ntg-transparent.png" alt="Rode NTG5 Moisture=-Resistant Short Shotgun Microphone">
         </div>
-        <div class="col-sm-6 order-sm-1 v-align-middle">
+        <div class="col-sm-6 order-sm-1 v-align-middle" data-aos="fade-right">
             <h2 class="gyre">Rode <br>NTG5 Moisture-Resistant <br>Short Shotgun Microphone</h2>
         </div>
     </div><!-- /.row -->
