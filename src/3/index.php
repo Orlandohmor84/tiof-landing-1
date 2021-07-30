@@ -26,7 +26,7 @@
 
             <?php include '../includes/h1.php' ?>
 
-            <?php include '../includes/next-steps.php' ?>
+            <?php include '../includes/next-steps-short-form.php' ?>
 
             <?php include '../includes/learn.php' ?>
 
