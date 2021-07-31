@@ -213,10 +213,13 @@ header h2 {
 header .row {
     position: relative;
 }
-
+#header-logo-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+}
 img#header-logo {
     border-radius: 50% 50% 0 0;
-    width: 90%;
+    width: 100%;
     height: auto;
     margin: auto;
 }
@@ -231,11 +234,30 @@ header a:hover,header a:active {
 #header-phone {
     margin-top: 20px;
 }
-header h3, header h4 {
+#header-phone h3, #header-phone h2 {
+    font-size: 0.8rem;
     color: #fff;
 }
-header h4 {
-    font-size: 1rem;
+@media screen and (min-width:500px) {
+    #header-phone h2 {
+        font-size: 1rem;
+    }
+}
+@media screen and (min-width:550px) {
+    #header-phone h2 {
+        font-size: 1.25rem;
+    }
+    #header-phone h3 {
+        font-size: 0.9rem;
+    }
+}
+@media screen and (min-width:700px) {
+    #header-phone h2 {
+        font-size: 1.5rem;
+    }
+    #header-phone h3 {
+        font-size: 1rem;
+    }
 }
 @media screen and (min-width: 768px) {
     #imgheader-logo {
