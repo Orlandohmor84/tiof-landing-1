@@ -11,8 +11,9 @@
 
 ## Release History ##
 
+* v2.1.12 - 2021/07/31 - Page 3 Content Edits.
 * v2.1.11 - 2021/07/31 - Short Why TIOF Banner.
-* v2.1.10 - 2021/07/30 - Short Lead From Page 3.
+* v2.1.10 - 2021/07/30 - Short Lead Form Page 3.
 * v2.1.9 - 2021/07/18 - Red Carpet Background Image. CSS Vedrsion yiqewrpzs5.
 * v2.1.8 - 2021/07/12 - Price Grid Text Edit.
 * v2.1.7 - 2021/07/07 - Red Carpet Page Update. CSS Version ar8wimy3b6.
