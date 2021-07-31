@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.14 - 2021/07/31 - Reduced Desktop Header Size. CSS Version dj6vprux9g.
 * v2.1.13 - 2021/07/31 - Reduced Mobile Header Size. CSS Version 016ch2e03t.
 * v2.1.12 - 2021/07/31 - Page 3 Content Edits.
 * v2.1.11 - 2021/07/31 - Short Why TIOF Banner.
