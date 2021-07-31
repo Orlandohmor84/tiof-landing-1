@@ -26,13 +26,13 @@
 
             <?php include '../includes/price-grid.php' ?>
 
-            <?php include '../includes/next-steps.php' ?>
+            <?php include '../includes/next-steps-short-form.php' ?>
 
             <?php include '../includes/learn.php' ?>
 
         </div><!-- /.container -->
 
-        <?php include '../includes/banner-why.php' ?>
+        <?php include '../includes/banner-why-short.php' ?>
 
         <?php include '../includes/get.php' ?>
 

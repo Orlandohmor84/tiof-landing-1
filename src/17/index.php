@@ -30,7 +30,7 @@
 
         </div><!-- /.container -->
 
-        <?php include '../includes/banner-why.php' ?>
+        <?php include '../includes/banner-why-short.php' ?>
 
         <?php include '../includes/get.php' ?>
 
