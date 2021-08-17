@@ -11,6 +11,7 @@
 
 ## Release History ##
 
+* v2.1.16 - 2021/08/17 - Landing Page 4 and 5 Content Edits.
 * v2.1.15 - 2021/07/31 - Responsive Courses. CSS Version 0vbiduvrf0.
 * v2.1.14 - 2021/07/31 - Reduced Desktop Header Size. CSS Version dj6vprux9g.
 * v2.1.13 - 2021/07/31 - Reduced Mobile Header Size. CSS Version 016ch2e03t.

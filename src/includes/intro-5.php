@@ -7,7 +7,7 @@
         <h2><strong>Have the Best Dream Career in Digital Film & Marketing</strong><br>
         <span class="red">The best film & marketing degree comes with lifetime equipment including the first-ever 6K camera</span><br>
         mentors from Hollywood, industry pros/execs, multiple film productions<br>
-        <span class="red">A New Non-Profit Higher Education Institute of F.I.L.M.S. Offering</span><br>
+        <span class="red">A Non-Profit Higher Education Institute of F.I.L.M.S. Offering</span><br>
         work with a convenient caring online studio team<br>
         <span class="red">your own production company startup help</span><br>
         non-profit affordable tuition<br>

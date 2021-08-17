@@ -8,7 +8,7 @@
         <span class="red">A double major, degree in film & marketing for you to double your projects, earning potential</span><br>
         you produce real films, get lifetime equipment, support to start your own company,<br>
         <span class="red">inspired, taught by mentors (Emmy-award winning filmmakers, industry pros/execs)</span><br>
-        A New Non-Profit Higher Education Institute of F.I.L.M.S. Offering<br>
+        A Non-Profit Higher Education Institute of F.I.L.M.S. Offering<br>
         <span class="red"> work with a caring interactive online studio team</span><br>
         and graduate in 11 months.</h2>
         <a role="button" class="btn" href="#next-steps"><?php echo $cta_01_text ?></a>
